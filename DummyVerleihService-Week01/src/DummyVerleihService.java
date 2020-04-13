@@ -7,6 +7,7 @@ import java.util.Random;
  * lediglich um eine Dummy-Implementation, um die GUI zu testen.
  * 
  * @author GUI-Team/Anna Nguyen (17:18,13.04.2020)
+ * Fetch(17:26,13.04.2020)
  * @version SoSe 2019
  */
 class DummyVerleihService extends AbstractObservableService
