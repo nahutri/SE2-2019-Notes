@@ -12,6 +12,7 @@ import java.util.Random;
  *Fetch(19:00,13.04.2020)
   *Fetch(19:07,13.04.2020)
   *push(19:13,13.04.2020)
+  *push(19:31,13.04.2020)
  * @version SoSe 2019
  */
 class DummyVerleihService extends AbstractObservableService
