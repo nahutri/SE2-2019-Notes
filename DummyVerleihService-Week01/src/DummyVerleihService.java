@@ -6,7 +6,7 @@ import java.util.Random;
  * Diese Klasse implementiert das Interface VerleihService. Es handelt sich
  * lediglich um eine Dummy-Implementation, um die GUI zu testen.
  * 
- * @author GUI-Team/Anna Nguyen
+ * @author GUI-Team/Anna Nguyen (17:18,13.04.2020)
  * @version SoSe 2019
  */
 class DummyVerleihService extends AbstractObservableService
